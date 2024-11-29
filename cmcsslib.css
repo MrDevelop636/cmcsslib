@@ -973,19 +973,7 @@ Author: MXTechnology
 
 
 
-/*nav*/
-
-
-
-.nav ul li{
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-}
-
-/*listy style type*/
+/*list style type*/
 
 .lst-none{
     list-style-type: none;
